@@ -4,3 +4,5 @@ Java version 11,
 Any Java IDE(Eclipse, IntelliJor JnetBeans),
 Maven Project ,
 All dependencies are in pom.xml,
+
+Task 1 is in Vodafone Task Folder
